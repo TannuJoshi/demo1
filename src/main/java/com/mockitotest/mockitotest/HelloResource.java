@@ -13,7 +13,7 @@ public class HelloResource {
 
     @GetMapping
     public String helloWorld(){
-        return  "Hello World!";
+        return  "Hello Tannu!";
     }
 
 }
